@@ -1,4 +1,2 @@
-numpy
+webbrowser
 streamlit
-ultralytics
-scikit-learn
